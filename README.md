@@ -9,7 +9,7 @@ Realizado com base no repositório: [repositório](https://github.com/Rocketseat
 
 ## Para Iniciar o projeto:
   - Clone o repositório para a sua maquina
-  - Instale ad ependencias, com o comando: `yarn`
+  - Instale as dependencias, com o comando: `yarn`
   - Inicie a fake api com:
     ```js
       yarn json-server server.json -p 3333
